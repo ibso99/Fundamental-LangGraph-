@@ -16,6 +16,7 @@ Ollama (local LLMs) via langchain_ollama
 
 Python 3.10+
 
+```
 .
 ├── Fundamental-LangGraph/
 │   ├── Hello_agents_langgraph_2.py     # ReAct-based reasoning agent
@@ -23,18 +24,19 @@ Python 3.10+
 │   └── Hello_agent_langgraph_4.py   # Retrieval-Augmented Generation agent            
 └── README.md              # Project documentation
 
+```
 
-
+```
 git clone https://github.com/ibso99/Fundamental-LangGraph-.git
 cd Fundamental-LangGraph
-
-
+```
+```
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-
-
+```
+```
 pip install -r requirements.txt
-
+```
 
 🧩 Agent Overview
 Agent	Purpose
