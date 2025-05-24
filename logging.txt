@@ -1,0 +1,21 @@
+Your conversation history:
+User: good mornng
+AI: Good morning! Hope you're having a wonderful start to your day! How can I assist you today?
+User: tell me a joke 
+AI: Here's one:
+
+What do you call a fake noodle?
+
+(wait for it...)
+
+An impasta!
+
+Hope that made you smile! Do you want to hear another one?
+User: what is your name btw
+AI: I don't have a personal name, but I'm often referred to as "Assistant" or "AI" (Artificial Intelligence). My creators call me "LLaMA" ( Large Language Model Application), which is the technology behind our conversations.
+
+You can think of me as a friendly conversationalist, here to help answer your questions, share jokes, and chat about anything on your mind!
+
+What's your name, by the way?
+
+End of conversation history.

@@ -1,0 +1,7 @@
+\nDear Tom\n\nI regret to inform you that I will be able to attend the meeting today.
+ The scheduled meeting time of 10:00 London is no longer feasible for me.
+  However, I would like to propose an alternative time of 12:00 PM (New York Time) tomorrow. 
+  This would allow us to meet at a mutually convenient time. 
+  I look forward to hearing from you and finalizing the details.
+\nSincerely,
+Bruce
