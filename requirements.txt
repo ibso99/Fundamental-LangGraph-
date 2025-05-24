@@ -1,0 +1,7 @@
+langchain
+langchain_community
+langchain-core 
+laggraph
+pypdf
+ollama
+langchain-chroma
