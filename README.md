@@ -1,21 +1,23 @@
-🧠 LangGraph Agents: ReAct, RAG, and Drafter
+🧠 **LangGraph Agents: ReAct, RAG, and Drafter**
+
 This project implements a modular agentic system using LangGraph to orchestrate three key agent types:
 
-** ReAct Agent: Uses the ReAct pattern to reason and act with tools iteratively. **
+-  ReAct Agent: Uses the ReAct pattern to reason and act with tools iteratively. 
 
-** Drafter Agent: Structures and drafts content based on a given prompt or task. **
+-  Drafter Agent: Structures and drafts content based on a given prompt or task. 
 
-** RAG Agent: Retrieves relevant context from a vector store to ground its responses. **
+-  RAG Agent: Retrieves relevant context from a vector store to ground its responses. 
 
 
-⚙️ Tech Stack
-** LangGraph for stateful agent orchestration **
+⚙️ **Tech Stack**
 
-** LangChain for agent tools and chains **
+- LangGraph for stateful agent orchestration
+
+- LangChain for agent tools and chains
  
-** Ollama (local LLMs) via langchain_ollama **
+- Ollama (local LLMs) via langchain_ollama
 
-** Python 3.10+ **
+- Python 3.10+ 
 
 ```
 .
@@ -41,9 +43,9 @@ pip install -r requirements.txt
 
 🧩 Agent Overview
 Agent	Purpose
-ReAct	Iterative reasoning with tools and memory
-RAG	Combines search + generation
-Drafter	Structured drafting (e.g., emails, reports)
+- ReAct	Iterative reasoning with tools and memory
+- RAG	Combines search + generation
+- Drafter	Structured drafting (e.g., emails, reports)
 
 📌 Notes
 Make sure Ollama is running with required models (llama3, etc.).
@@ -51,11 +53,11 @@ Make sure Ollama is running with required models (llama3, etc.).
 Configure your .env for any API keys or environment settings.
 
 🛠️ Future Work
-Add UI with Streamlit
+- Add UI with Streamlit
 
-Integrate with external knowledge bases
+- Integrate with external knowledge bases
 
-Parallel agent orchestration
+- Parallel agent orchestration
 
 📄 License
 MIT License
