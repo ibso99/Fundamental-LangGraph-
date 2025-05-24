@@ -1,20 +1,21 @@
 🧠 LangGraph Agents: ReAct, RAG, and Drafter
 This project implements a modular agentic system using LangGraph to orchestrate three key agent types:
 
-ReAct Agent: Uses the ReAct pattern to reason and act with tools iteratively.
+** ReAct Agent: Uses the ReAct pattern to reason and act with tools iteratively. **
 
-RAG Agent: Retrieves relevant context from a vector store to ground its responses.
+** Drafter Agent: Structures and drafts content based on a given prompt or task. **
 
-Drafter Agent: Structures and drafts content based on a given prompt or task.
+** RAG Agent: Retrieves relevant context from a vector store to ground its responses. **
+
 
 ⚙️ Tech Stack
-LangGraph for stateful agent orchestration
+** LangGraph for stateful agent orchestration **
 
-LangChain for agent tools and chains
+** LangChain for agent tools and chains **
+ 
+** Ollama (local LLMs) via langchain_ollama **
 
-Ollama (local LLMs) via langchain_ollama
-
-Python 3.10+
+** Python 3.10+ **
 
 ```
 .
